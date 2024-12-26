@@ -1,0 +1,21 @@
+.sticky-divi-button {
+color: #ffffff; /* You can change font color */
+font-family: "Raleway";
+font-size: 18px;  /* You can change font size */
+background-color: #f5a623; /* You can change color button */
+border-radius: 4px;
+letter-spacing: 0.8px;
+text-transform: uppercase;
+text-decoration: none;
+box-shadow: 0px 25px 28px -21px rgba(194,180,190,1);
+padding: 20px 3%;
+z-index: 10;
+position: fixed;
+bottom: 40px;
+right: 40px;
+}
+
+.sticky-divi-button:hover {
+background-color: #3ccee2; /* You can change color button on hover */
+box-shadow: none;
+}
